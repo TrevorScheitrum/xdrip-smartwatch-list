@@ -15,4 +15,4 @@ Huawei Watch | WearOS ? | Yes: 5 minutes if patched, 10 minutes if not | [patch 
 Huawei Watch 2 | WearOS ? | Yes: 5 minutes if patched, 10 minutes if not | [patch the firmware](https://github.com/NightscoutFoundation/xDrip/wiki/Patching-Android-Wear-devices-for-use-with-the-G5)
 LG G Watch | WearOS ? | Yes: 5 minutes if patched, 10 minutes if not | [patch the firmware](https://github.com/NightscoutFoundation/xDrip/wiki/Patching-Android-Wear-devices-for-use-with-the-G5)
 Polar M600 | WearOS ? | Yes: 5 minutes if patched, 10 minutes if not | [patch the firmware](https://github.com/NightscoutFoundation/xDrip/wiki/Patching-Android-Wear-devices-for-use-with-the-G5)
-
+Bluejay Watch | ? | Yes: 5 minutes | [Bluejay Watch](https://bluejay.website/shop/product/bluejay-x2-17)
