@@ -1,6 +1,9 @@
 # xdrip-smartwatch-list
 This is a collection of watches that work with the Xdrip+ diabetes software.
 
+### Setting up your watch with Xdrip+
+https://github.com/NightscoutFoundation/xDrip/blob/master/Documentation/WatchGuide.md
+
 
 
 Watch | Watch OS? | Works as collector? | extra info
